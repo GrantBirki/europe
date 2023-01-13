@@ -2,3 +2,22 @@ baseURL: https://europe.birki.io/
 languageCode: en-us
 title: europe
 theme: PaperMod
+params:
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: G+L - 2017 Europe Journal 📓
+    Content: A web version of Grant and Leah's 2017 Europe Journal
+
+  cover:
+    linkFullImages: true
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowCodeCopyButtons: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
