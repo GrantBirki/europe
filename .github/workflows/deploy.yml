@@ -48,11 +48,11 @@ jobs:
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
 
       - name: checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3.3.0
 
       - name: setup pages
         id: pages
-        uses: actions/configure-pages@v1
+        uses: actions/configure-pages@v2.1.3
 
       - name: build with hugo
         run: |
@@ -61,7 +61,7 @@ jobs:
             --baseURL ${{ steps.pages.outputs.base_url }}
 
       - name: upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v1.0.7
         with:
           path: ./public
 
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: deploy
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v1.2.3
