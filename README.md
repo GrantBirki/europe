@@ -16,6 +16,16 @@ hugo server -D
 
 This will start a local development server with live reloads
 
+### WSL Note 📓
+
+If you are using WSL, you will need to run the following commands to ensure the server is accessible from your browser:
+
+```bash
+ifconfig # find the IP address of your WSL instance
+
+hugo server --bind <ip> --baseURL=http://<ip> -D
+```
+
 ## New Blog Post 📝
 
 To create a new blog post, run the following command:
