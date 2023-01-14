@@ -14,6 +14,8 @@ Leah and I decided that Vienna was more of a "practical" city. By this we mean t
 
 P.S. Agnes was a wonderful host (Leonie's cousin)
 
+---
+
 ### Photos 📸
 
 ![IMG_5862_LR](IMG_5862_LR.jpg)
