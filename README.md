@@ -1,4 +1,4 @@
-# europe
+# europe 💶
 
 [![deploy](https://github.com/GrantBirki/europe/actions/workflows/deploy.yml/badge.svg)](https://github.com/GrantBirki/europe/actions/workflows/deploy.yml)
 
