@@ -21,3 +21,17 @@ After showing us the castle we all figured it was getting quite late so we would
 ![oswiecim-2](oswiecim-2.jpg)
 
 ![oswiecim-3](oswiecim-3.jpg)
+
+---
+
+### Photos 📸
+
+![oswiecim-map](oswiecim-map.jpg)
+
+![greg-dragon](greg-dragon.jpg)
+
+![leah-and-greg](leah-and-greg.jpg)
+
+![leah-table](leah-table.jpg)
+
+![grant-leah-greg](grant-leah-greg.jpg)
