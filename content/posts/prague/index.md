@@ -21,3 +21,15 @@ The following morning we took the metro line downtown and decided not to buy a t
 ---
 
 ![Prague](prague.jpg)
+
+---
+
+### Photos 📸
+
+![IMG_5577_LR](IMG_5577_LR.jpg)
+
+![IMG_5584_LR](IMG_5584_LR.jpg)
+
+![IMG_5627_LR](IMG_5627_LR.jpg)
+
+![IMG_5674_LR](IMG_5674_LR.jpg)
