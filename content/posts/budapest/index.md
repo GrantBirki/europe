@@ -96,4 +96,4 @@ This was by far the most fun part of our stay. We squeezed ourselves into cracks
 
 ![IMG_6348_LR](IMG_6348_LR.jpg)
 
-> Climbing into our sleeper car on our way from Budapest to Vienna, whew!
+> Climbing into our sleeper car on our way from Budapest to Split, whew!
