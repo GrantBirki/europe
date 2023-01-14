@@ -33,3 +33,9 @@ To create a new blog post, run the following command:
 ```bash
 hugo new posts/my-first-post.md
 ```
+
+## Theme 🎨
+
+This site uses the [hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme
+
+For more details on configuration, see the [features](https://github.com/adityatelange/hugo-PaperMod/wiki/Features) page on the theme's wiki
