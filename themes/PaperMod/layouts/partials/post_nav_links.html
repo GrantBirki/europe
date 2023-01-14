@@ -8,7 +8,7 @@
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
-  {{- with $pages.Prev . }}
+  {{- with $pages.Reverse.Prev . }}
   <a class="next" href="{{ .Permalink }}">
     <span class="title">{{ i18n "next_page" }} »</span>
     <br>
