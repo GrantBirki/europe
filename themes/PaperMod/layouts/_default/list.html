@@ -50,7 +50,7 @@
 {{- end }}
 
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+{{- range $index, $page := $paginator.Pages.Reverse }}
 
 {{- $class := "post-entry" }}
 
