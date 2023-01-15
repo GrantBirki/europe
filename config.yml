@@ -58,7 +58,7 @@ params:
     linkFullImages: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   displayFullLangName: true
   ShowCodeCopyButtons: true
