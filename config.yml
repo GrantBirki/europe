@@ -10,6 +10,10 @@ paginate: 5
 enableEmoji: true
 enableRobotsTXT: true
 
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
 minify:
   disableXML: true
   minifyOutput: true
