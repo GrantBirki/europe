@@ -20,6 +20,20 @@ TODO
 
 ---
 
+### Journal Entries 📝
+
+![budapest-2](budapest-2.jpg)
+
+![budapest-3](budapest-3.jpg)
+
+![budapest-4](budapest-4.jpg)
+
+![budapest-5](budapest-5.jpg)
+
+![budapest-6](budapest-6.jpg)
+
+---
+
 ### Photos 📸
 
 ![budapest-note](budapest-note.jpg)
