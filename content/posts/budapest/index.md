@@ -42,6 +42,10 @@ I ran through some doors that lead onto the main platform, and three tracks down
 
 We both pretty much collapsed to the floor of the train car with our hearts practically beating out of our chest. We had somehow managed to catch a train from two stations away against all odds. In the moment, catching our breath, and trying not to pass out from adrenaline overload we did not realize this would be a defining moment for our relationship but it forever would be. We worked so well together and managed to overcome an obstacle that was "not possible". Years later we still look back on this chaos and think, "If we can catch that train, we can get through anything".
 
+![IMG_6330_LR](IMG_6330_LR.jpg)
+
+We made it ❤️🚋
+
 ---
 
 ### Journal Entries 📝
